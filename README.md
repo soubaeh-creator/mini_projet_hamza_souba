@@ -4,7 +4,6 @@
 - Annee  : 2025/2026
 - Niveau : 1ere annee IMS
 - Equipe : HARMANE MOHAMED-AMINE - HAMZA SOUBA
-- GitHub : https://github.com/amineharmane273-bot/Mini-projet-c-HARMANE-MOHAMED-AMINE
 - Video  : https://www.youtube.com/watch?v=mYdZD9PVugQ
 
 ## Description
