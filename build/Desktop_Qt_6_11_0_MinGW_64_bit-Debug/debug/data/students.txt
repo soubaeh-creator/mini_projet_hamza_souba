@@ -1,0 +1,3 @@
+Licence|1001|Benali amira|4|info
+Licence|1003|ahmed ali|4|math
+Doctorat|1023|fatima|3.94|Dr.souba|1
